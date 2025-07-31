@@ -1,0 +1,50 @@
+.contact-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  margin: 0.5rem 0;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info {
+  display: flex;
+  align-items: center;
+}
+
+.contact-avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.contact-details {
+  margin-left: 1rem;
+}
+
+.contact-name {
+  font-weight: bold;
+}
+
+.contact-email {
+  color: gray;
+  font-size: 0.9rem;
+}
+
+.contact-actions {
+  display: flex;
+  gap: 0.8rem;
+  font-size: 1.2rem;
+}
+
+.edit-icon {
+  color: #007bff;
+  cursor: pointer;
+}
+
+.delete-icon {
+  color: #dc3545;
+  cursor: pointer;
+}

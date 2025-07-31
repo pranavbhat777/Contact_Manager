@@ -1,0 +1,70 @@
+/* App base styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fff4e9;
+  margin: 0;
+  padding: 2rem;
+  color: #333;
+}
+
+h1, h2 {
+  color: #222;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Add Contact Form */
+.form {
+  background-color: #ffffff;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  margin-bottom: 2rem;
+}
+
+.form label {
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+
+.form input {
+  width: 100%;
+  padding: 0.6rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+}
+
+.add-btn {
+  padding: 0.4rem 1.2rem;
+  font-size: 14px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-btn:hover {
+  background-color: #218838;
+}
+
+.search-input {
+  width: 60%;
+  padding: 0.6rem 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.search-input:focus {
+  border-color: #007bff;
+  outline: none;
+}
