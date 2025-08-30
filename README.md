@@ -43,13 +43,6 @@ A modern React-based contact management application built with Vite for fast dev
 
 4. Open your browser and navigate to `http://localhost:5173`
 
-## Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
-
 ## Project Structure
 
 ```
@@ -63,15 +56,5 @@ contact-app/
 └── README.md        # Project documentation
 ```
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Commit your changes
-5. Push to the branch
-6. Create a Pull Request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
