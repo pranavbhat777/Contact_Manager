@@ -1,4 +1,4 @@
-# Contact Manager App
+# Contact Manager 
 
 A modern React-based contact management application built with Vite for fast development and optimal performance.
 
